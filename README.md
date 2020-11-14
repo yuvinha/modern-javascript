@@ -6,7 +6,7 @@ Course projects for the [Complete JavaScript Course 2020](https://www.udemy.com/
 ## Apps
 > Each project directory contains screenshots/GIFs.
 
-1. **[Pig Game](/01-pig-game)**: [Pig Game](https://en.wikipedia.org/wiki/Pig_(dice_game)) application
+1. **[Pig Game](/1-pig-game)**: [Pig Game](https://en.wikipedia.org/wiki/Pig_(dice_game)) application
     - **Topics**: DOM Manipulation, Event Handling
    
 2. **[Budgety](/2-budgety)**: Budget Management application
