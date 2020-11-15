@@ -58,6 +58,7 @@ body {
     color: #555;
     font-family: 'Lato', Arial;
     font-size: 18px;
+    font-weight: bold;
     text-transform: uppercase;
     text-align: center;
 }
@@ -72,6 +73,11 @@ body {
 
 .final-score:focus {
     outline: none;
+}
+
+.final-score::placeholder {
+    color: #bdbdbd;
+    font-weight: normal;
 }
 
 
