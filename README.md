@@ -1,8 +1,8 @@
 # The Complete JavaScript Course 2020
 Course projects for the [Complete JavaScript Course 2020](https://www.udemy.com/course/the-complete-javascript-course/) on Udemy
 
-> Course Info: 158 lectures, 27h 38m videos
-> Progress: Completed (13th May 2020)
+> - Course Info: 158 lectures, 27h 38m videos
+> - Progress: Completed (13th May 2020)
 
 ## Apps
 > Each project directory contains screenshots/GIFs.
